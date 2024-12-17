@@ -2,6 +2,12 @@
 
 실전 웹 UI 제작 가이드를 위한 강의 자료와 예시 코드를 살펴볼 수 있습니다.
 
+### 사용 방법
+
+페이지 하단 레포지토리에서 각 폴더를 확인할 수 있습니다.
+
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/c97b1754-31ba-4397-af4a-134a747e21f4" />
+
 ### Q&A
 
 #### 예시 코드가 실행되지 않는 경우
